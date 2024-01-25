@@ -1,0 +1,39 @@
+.footer {
+    background-color: #f3ff19; 
+    padding: 60px 0;
+    position: relative;
+    top: 0px;
+  }
+  
+  .follows span a {
+    text-decoration: none;
+  }
+  
+  .follows span {
+    margin-right: 15px;
+  }
+  
+  .link__list .link__item {
+    background: transparent;
+  }
+  
+  .link__list a {
+    text-decoration: none;
+    color: #0a2b1e;
+    font-weight: 500;
+  }
+  
+  .link__list {
+    margin-bottom: 20px;
+  }
+  
+  .link__item {
+    margin-bottom: 10px;
+  }
+  
+  .follows i {
+    font-size: 1.5rem;
+    color: #0a2b1e;
+    margin-right: 10px;
+  }
+  
